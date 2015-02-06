@@ -1,3 +1,7 @@
+.DS_Store
+src/sources.txt
+bin/
+
 # Compiled class file
 *.class
 
@@ -11,7 +15,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.nar
 *.ear
